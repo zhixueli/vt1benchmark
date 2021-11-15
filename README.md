@@ -24,3 +24,15 @@
 ### vmaf质量评估
 
 * benchmark_vmaf.sh
+
+### 1080p转码性能对比
+
+![alt text](https://github.com/zhixueli/vt1benchmark/blob/main/result/HD.png?raw=true)
+
+### 4K转码性能对比
+
+![alt text](https://github.com/zhixueli/vt1benchmark/blob/main/result/4K.png?raw=true)
+
+### 结论
+
+对于1080p转码，V1.3xl 实例的性价比比 C5a.4xl 高 60.4%，比 C6g.4xl 实例的 H.264 编码性价比高 70.1%，比 G4dn 高 38.2% 的性价比
