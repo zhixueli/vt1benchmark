@@ -27,11 +27,11 @@
 
 ### 1080p转码性能对比
 
-![alt text](https://github.com/zhixueli/vt1benchmark/blob/main/result/HD.png?raw=true)
+![alt text](https://github.com/zhixueli/vt1benchmark/blob/master/result/HD.png?raw=true)
 
 ### 4K转码性能对比
 
-![alt text](https://github.com/zhixueli/vt1benchmark/blob/main/result/4K.png?raw=true)
+![alt text](https://github.com/zhixueli/vt1benchmark/blob/master/result/4K.png?raw=true)
 
 ### 结论
 
